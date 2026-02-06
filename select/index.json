@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "等身大の地球",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-02-06T13:01:48.988409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "等身大の地球",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_等身大の地球_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "等身大の地球",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_等身大の地球_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
